@@ -1,0 +1,22 @@
+{
+  "name": "hermes-models",
+  "version": "1.0.0",
+  "description": "Hermes entity ES6 class models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SubhashWalunj/hermes-models.git"
+  },
+  "keywords": [
+    "Hermes"
+  ],
+  "author": "Subhash Walunj (walunjsubhash@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhashWalunj/hermes-models/issues"
+  },
+  "homepage": "https://github.com/SubhashWalunj/hermes-models"
+}
